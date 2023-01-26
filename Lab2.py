@@ -1,20 +1,38 @@
 '''
 Lab 2
+numbers, variables, and strings
 '''
 
 #6.1
 my_name = 'Tom'
 print(my_name.upper())
+
+#6.2
 my_id = 123
 print(my_id)
-#6.3
 
+#6.3
+# 132 = my_id NO
+
+#6.4
 my_id = your_id = 123
 print(your_id)
+
+#6.5
 my_id_str = '123'
 print(my_id_str)
-# print(my_name + my_id) NO
-print(my_name + my_id_str) #YES
-print(my_name * 3) #yes 
+
+#6.6
+# print(my_name + my_id) No
+
+#6.7
+print(my_name + my_id_str) 
+
+#6.8
+print(my_name * 3) 
+
+#6.9
 print('hello world. This is my first python string'.split())
+
+#6.10
 # message='Tom's id is 123' No
