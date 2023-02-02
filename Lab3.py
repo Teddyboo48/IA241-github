@@ -16,7 +16,7 @@ print(str_list[2])
 
 #3.5
 my_list = ['a','123',123,'d','B','False',False,123,None,'None']
-print(set(my_list))
+print(len(set(my_list)))
 #9 unique items
 #10 items in the set
 
