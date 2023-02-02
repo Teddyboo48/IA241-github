@@ -16,12 +16,14 @@ print(str_list[2])
 
 #3.5
 my_list = ['a','123',123,'d','B','False',False,123,None,'None']
-print(len(my_list))
+print(set(my_list))
+#9 unique items
+#10 items in the set
 
 #3.6
 my_words = 'This is my third python lab.'
 print(len(my_words.split()))
-#10 unique items
+#6 words
 
 #3.7
 num_list = [12,32,43,35]
